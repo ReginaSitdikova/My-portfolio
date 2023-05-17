@@ -10,7 +10,7 @@
 3) Ведущий специалист дирекции документального сопровождения продаж и поддержки клиентов, Банк Уралсиб (Апрель 2018 - Сентябрь 2018)
 4) Специалист бэк-офиса, Банк Ренессанс Кредит (Февраль 2019 по настоящее время)
 
-Навыки и технологии: Jira, qase.io, Confluence, Sitechco, Miro, SQL, Postman, Swagger, Trello, SoapUI, Chrome DevTools, Mockoon, Bash Online
+Навыки и технологии: Jira, qase.io, Confluence, Sitechco, Miro, SQL, Postman, Swagger, Trello, SoapUI, Chrome DevTools, Bash Online
 
 Проекты:
 
