@@ -32,4 +32,4 @@ Jira, qase.io, Confluence, Sitechco, Miro, SQL, Postman, Swagger, Trello, SoapUI
 Выводы: Есть критические ошибки при тестировании API (При выполнении запроса на добавление названия личного события состоящего  из 0 символов отражается статус код 200)
 
 
-Контактная информация: email regsit1402@icloud.com
+                                 Контактная информация: email regsit1402@icloud.com
